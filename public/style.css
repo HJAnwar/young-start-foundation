@@ -177,6 +177,22 @@
   }
   
   
+  .btn-style{
+    text-align: center;
+    border: none;
+    margin-bottom: 20px;
+   
+
+  }
+  .btn-style button{
+    border: none;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    background-color: rgba(133, 133, 124, 0.904);
+  }
   
   .row::after{
     clear: both;
